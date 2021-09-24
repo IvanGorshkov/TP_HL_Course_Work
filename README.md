@@ -61,3 +61,4 @@
 2. https://www.likeni.ru/analytics/statistika-po-instagram-kotoruyu-nuzhno-znat-k-2020-godu/
 3. https://lpgenerator.ru/blog/2019/02/28/instagram-v-cifrah-statistika-na-2019-god/
 4. https://blog.ingate.ru/detail/instagram-v-tsifrakh-i-faktakh-aktualnaya-statistika-2019/
+
