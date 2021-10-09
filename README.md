@@ -66,6 +66,7 @@
   - Отписки: 29,4 млн. в день => 340 RPS
 
 # 3. Логическая схема
+![Логическая схема](./pics/img_1.png "Логическая схема")
 
 # Список используемых источников 
 1. https://www.websiterating.com/ru/research/instagram-statistics/#chapter-1
