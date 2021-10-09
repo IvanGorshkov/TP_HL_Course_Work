@@ -65,7 +65,7 @@
   - Подписки: 67,2 млн. в день => 777 RPS
   - Отписки: 29,4 млн. в день => 340 RPS
 
-
+# 3. Логическая схема
 
 # Список используемых источников 
 1. https://www.websiterating.com/ru/research/instagram-statistics/#chapter-1
