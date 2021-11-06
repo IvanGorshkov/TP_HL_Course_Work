@@ -224,6 +224,11 @@ CPU(cores)    | RAM (Gb)      |SSD (Gb)| Network (Mbps)|Количество|
 ------------- | ------------- |--------|---------------|----------|
 16            | 32            |128     |10             |4 +  4 разервных |
 
+ ## Хранилище
+  CPU(cores)  | RAM (Gb)      |SSD (Tb)| Network (Gbps)|Количество|
+------------- | ------------- |--------|---------------|----------|
+4             | 8             |8       |10             |3712|
+
 # Список используемых источников 
 1. https://www.websiterating.com/ru/research/instagram-statistics/#chapter-1
 2. https://www.likeni.ru/analytics/statistika-po-instagram-kotoruyu-nuzhno-znat-k-2020-godu/
