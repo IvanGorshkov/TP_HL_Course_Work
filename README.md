@@ -102,6 +102,9 @@ gRPC предназначен для протокола HTTP/2, основной
   - PSQL
   - Tarantool
   
+# 6. Схема проекта
+![Схема проекта](./pics/sheame.png "Схема проекта")
+
 # Список используемых источников 
 1. https://www.websiterating.com/ru/research/instagram-statistics/#chapter-1
 2. https://www.likeni.ru/analytics/statistika-po-instagram-kotoruyu-nuzhno-znat-k-2020-godu/
