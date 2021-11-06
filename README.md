@@ -150,6 +150,8 @@ L7(Ngnix) - балансирует трафик между определенн�
  1. Posts - получение данных к посту
  2. Images - Получение картинки
 
+# 7. Список серверов
+
 # Список используемых источников 
 1. https://www.websiterating.com/ru/research/instagram-statistics/#chapter-1
 2. https://www.likeni.ru/analytics/statistika-po-instagram-kotoruyu-nuzhno-znat-k-2020-godu/
